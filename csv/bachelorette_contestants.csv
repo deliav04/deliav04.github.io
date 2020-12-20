@@ -1,0 +1,397 @@
+,name,age,sex,season
+0,Ryan Sutter,28,M,1
+1,Charlie Maher,28,M,1
+2,Russell Woods,31,M,1
+3,Greg T.,28,M,1
+4,Bob Guiney,31,M,1
+5,Jamie Blyth,27,M,1
+6,Mike,24,M,1
+7,Rob,29,M,1
+8,Brian C.,28,M,1
+9,Brian S.,28,M,1
+10,Brook,29,M,1
+11,Jack,27,M,1
+12,Jeff,25,M,1
+13,Josh,31,M,1
+14,Brian H.,30,M,1
+15,Billy,28,M,1
+16,Brian K.,31,M,1
+17,Chris,35,M,1
+18,Duane,28,M,1
+19,Eric,33,M,1
+20,Gregg H.,34,M,1
+21,Matt,42,M,1
+22,Paul,26,M,1
+23,Peter,25,M,1
+24,Wayne,37,M,1
+25,Ian McKee,29,M,2
+26,Matthew Hickl,28,M,2
+27,Chad,31,M,2
+28,Lanny Lawrence,26,M,2
+29,Brad,29,M,2
+30,Ryan M.,30,M,2
+31,Sean,31,M,2
+32,Rick,29,M,2
+33,Ryan R.,29,M,2
+34,Todd,36,M,2
+35,Damon,28,M,2
+36,Eliot,25,M,2
+37,Harold Hersh,29,M,2
+38,Marcus,26,M,2
+39,Robert,32,M,2
+40,Aaron,32,M,2
+41,Andy Chang,33,M,2
+42,Anselm Clinard,32,M,2
+43,Brian,31,M,2
+44,Chris,31,M,2
+45,Cory Higgins,24,M,2
+46,Jeff O'Quinn,30,M,2
+47,Justin,25,M,2
+48,Keith,31,M,2
+49,Trever,35,M,2
+50,Jerry Ferris,29,M,3
+51,John Paul Merritt,25,M,3
+52,Ryan Sh.,28,M,3
+53,Wendell,32,M,3
+54,Fabrice Le Parc,25,M,3
+55,Ben,26,M,3
+56,Josh Cox,28,M,3
+57,Keith,28,M,3
+58,A.W.,27,M,3
+59,Jason,29,M,3
+60,Mark,30,M,3
+61,Matt M.,32,M,3
+62,Michael Foster,31,M,3
+63,Ryan Sm.,34,M,3
+64,Stu,27,M,3
+65,Andrew,37,M,3
+66,Andy LeRoy,29,M,3
+67,Chris C.,27,M,3
+68,Chris M.,33,M,3
+69,Collin,27,M,3
+70,David,30,M,3
+71,Eric H.,35,M,3
+72,Eric T.,37,M,3
+73,Kevin,26,M,3
+74,Matt L.,33,M,3
+75,Jesse Csincsak,26,M,4
+76,Jason Mesnick,31,M,4
+77,Jeremy Anderson,30,M,4
+78,Graham Bunn,29,M,4
+79,Sean Ramey,33,M,4
+80,Blaine Twilley,33,M,4
+81,Brian Westendorf,31,M,4
+82,"Frederick ""Fred"" Greif",30,M,4
+83,Robert Fair,28,M,4
+84,Paul Brosseau,23,M,4
+85,Ronald Mayer,36,M,4
+86,Richard Mathy,27,M,4
+87,"Christopher ""Chris"" Bradshaw",29,M,4
+88,Eric Papachristos,32,M,4
+89,Ryan Hoag,28,M,4
+90,Brian Winchester,29,M,4
+91,Chandler Fulton,25,M,4
+92,Donato Capodanno,26,M,4
+93,"Gregory ""Greg"" Matthew",28,M,4
+94,Jeffrey Harris,27,M,4
+95,"Jonathan ""Jon"" Konkel",35,M,4
+96,Luke Hamilton,27,M,4
+97,Patrick Carlson,26,M,4
+98,Patrick Durrere,27,M,4
+99,Spero Stamboulis,38,M,4
+100,"Edward ""Ed"" Swiderski",29,M,5
+101,Kiptyn Locke,31,M,5
+102,Reid Rosenthal,30,M,5
+103,"Wesley ""Wes"" Hayden",32,M,5
+104,Jesse Kovacs,27,M,5
+105,Michael Stagliano,25,M,5
+106,"Jacob ""Jake"" Pavelka",31,M,5
+107,Tanner Pope,30,M,5
+108,"Robert ""Robby"" Descant",25,M,5
+109,"Marcus ""Mark"" Huebner",26,M,5
+110,David Good,27,M,5
+111,Juan Barbieri,35,M,5
+112,"Michael ""Mike"" Steinberg",28,M,5
+113,"Bradley ""Brad"" Seberhagen",27,M,5
+114,Tanner Fanello,28,M,5
+115,"Alexander ""Sasha"" Petrovic",27,M,5
+116,Brian Duke,32,M,5
+117,Julien Hug,34,M,5
+118,Mathue Johnson,25,M,5
+119,Simon Ambrose,26,M,5
+120,Adam Duvendeck,27,M,5
+121,Bryan Vaderman,28,M,5
+122,Bryce Harlow,31,M,5
+123,Caleb Kuhl,27,M,5
+124,"Gregory ""Greg"" Bilbro",31,M,5
+125,John Hardesty,27,M,5
+126,John Presser,29,M,5
+127,"Joshua ""Josh"" Yocam",25,M,5
+128,Kyle Yauch,26,M,5
+129,Stephen Reich,30,M,5
+130,Roberto Martinez,26,M,6
+131,Chris Lambton,33,M,6
+132,Frank Neuschaefer,31,M,6
+133,Kirk DeWindt,27,M,6
+134,"Tyrone ""Ty"" Brown",31,M,6
+135,Craig Robinson,27,M,6
+136,Justin Rego,26,M,6
+137,Chris Nordhorn,29,M,6
+138,Kasey Kahl,27,M,6
+139,Jesse Beck,24,M,6
+140,Jonathan Novack,30,M,6
+141,John Crivello,32,M,6
+142,Steve Kocsis,28,M,6
+143,Hunter Wagner,28,M,6
+144,Chris Hasek-Watt,27,M,6
+145,Craig McKinnon,34,M,6
+146,Tyler Vermette,25,M,6
+147,Vic,22,M,6
+148,Derrick Schuster,27,M,6
+149,Jason Whitehead,27,M,6
+150,"Jason ""Jay"" Resmini",29,M,6
+151,John Nichols,27,M,6
+152,Kyle Higgins,26,M,6
+153,Phil Kayden,30,M,6
+154,Tyler Morrow,25,M,6
+155,"Jordan Paul ""J.P."" Rosenbaum",34,M,7
+156,"Benjamin ""Ben"" Flajnik",28,M,7
+157,Constantine Tzortzis ,30,M,7
+158,Ames Brown,31,M,7
+159,Lucas Daniels,30,M,7
+160,Ryan Park,31,M,7
+161,Blake Julian,27,M,7
+162,"Ryan ""Mickey"" McLean",31,M,7
+163,"Nicholas ""Nick"" Peterson",26,M,7
+164,William Holman,30,M,7
+165,"Benjamin ""Ben"" Castoriano",28,M,7
+166,"Weston ""West"" Lee",30,M,7
+167,"Christopher ""Chris"" Drish",25,M,7
+168,"Jeffrey ""Jeff"" Medolla",35,M,7
+169,Bentley Williams,28,M,7
+170,"Matthew ""Matt"" Colombo",28,M,7
+171,Ryan Miller,27,M,7
+172,Stephen D'Amico,27,M,7
+173,Anthony Santucci,28,M,7
+174,"Christian ""Chris"" Malhomme",27,M,7
+175,"Francis ""Frank"" Carpenter",29,M,7
+176,"Jonathan ""Jon"" Ellsworth",26,M,7
+177,Michael Burns,29,M,7
+178,"Robert ""Rob"" Dahm",27,M,7
+179,"Timothy ""Tim"" McCormack",35,M,7
+180,"Jeffrey ""Jef"" Holm",27,M,8
+181,"Arie Luyendyk, Jr.",30,M,8
+182,Sean Lowe,28,M,8
+183,"Christopher ""Chris"" Bukowski",25,M,8
+184,John Wolfner,30,M,8
+185,"Douglas ""Doug"" Clerget",33,M,8
+186,Ryan Bowers,31,M,8
+187,Travis Pope,30,M,8
+188,Alejandro Velez,25,M,8
+189,Kalon McMahon,27,M,8
+190,"Charles ""Charlie"" Grogan",32,M,8
+191,Michael Nance,26,M,8
+192,"Nathaniel ""Nathan"" Baake",25,M,8
+193,"Stephen ""Stevie"" Alberino",26,M,8
+194,Alessandro Goulart,30,M,8
+195,"Anthony ""Tony"" Pieper",31,M,8
+196,Aaron Martell,36,M,8
+197,Kyle Dillon,29,M,8
+198,"Joseph ""Joe"" Gendreau",27,M,8
+199,Brent Richter,41,M,8
+200,David Homyk,33,M,8
+201,Jackson Longnecker,29,M,8
+202,Jean-Paul LaCount,35,M,8
+203,Lerone Anu,29,M,8
+204,Randy Lee Woyak,30,M,8
+205,Chris Siegfried,27,M,9
+206,Drew Kenney,27,M,9
+207,Brooks Forester,28,M,9
+208,Zak Waddell,31,M,9
+209,Michael Garofola,33,M,9
+210,James Case,27,M,9
+211,Juan Pablo Galavis,31,M,9
+212,Kasey Stewart,29,M,9
+213,Mikey Tenerelli,30,M,9
+214,Ben Scott,28,M,9
+215,Bryden Vukasin,26,M,9
+216,Zack Kalter,28,M,9
+217,Brad McKinzie,27,M,9
+218,Brandon Andreen,26,M,9
+219,Dan Cox,30,M,9
+220,Brian Jarosinski,29,M,9
+221,Nick Mucci,27,M,9
+222,Robert Graham,30,M,9
+223,Will Reese,28,M,9
+224,Diogo Custodio,29,M,9
+225,Larry Burchett,34,M,9
+226,Micah Heisler,32,M,9
+227,Mike R.,28,M,9
+228,Nick Roy,26,M,9
+229,Jonathan Vollinger,26,M,9
+230,Josh Murray,29,M,10
+231,Nick Viall,33,M,10
+232,Chris Soules,32,M,10
+233,Marcus Grodd,25,M,10
+234,Brian Osborne,27,M,10
+235,Dylan Petitt,26,M,10
+236,"Joseph John ""J.J."" O'Brien",30,M,10
+237,Cody Sattler,28,M,10
+238,Andrew Poole,30,M,10
+239,Marquel Martin,26,M,10
+240,Patrick Jagodzinski,29,M,10
+241,Tasos Hernandez,30,M,10
+242,Eric Hill,31,M,10
+243,Bradley Wisk,32,M,10
+244,Brett Melnick,29,M,10
+245,Ron Worrell,28,M,10
+246,Carl King,30,M,10
+247,Craig Muhlbauer,29,M,10
+248,Nick Sutter,27,M,10
+249,Emil Schaffroth,33,M,10
+250,Jason Leep,35,M,10
+251,Josh Bauer,29,M,10
+252,Mike Campanelli,29,M,10
+253,Rudie Dane,31,M,10
+254,Steven Woolworth,30,M,10
+255,Shawn Booth,28,M,11
+256,Nick Viall,34,M,11
+257,Ben Higgins,26,M,11
+258,Jared Haibon,26,M,11
+259,Joe Bailey,28,M,11
+260,Chris Strandburg,28,M,11
+261,Ben Zorn,26,M,11
+262,Tanner Tolbert,28,M,11
+263,"John ""J.J."" Lane III",32,M,11
+264,Joshua Albers,31,M,11
+265,Justin Reich,28,M,11
+266,Ian Thomson,28,M,11
+267,Corey Stansell,30,M,11
+268,Jonathan Holloway,33,M,11
+269,Ryan Beckett,32,M,11
+270,Clint Arlis,27,M,11
+271,Tony Harris,35,M,11
+272,Cory Shivar,35,M,11
+273,Daniel Finney,28,M,11
+274,Kupah James,32,M,11
+275,Bradley Cox,25,M,11
+276,David,28,M,11
+277,Josh Seiter,27,M,11
+278,Shawn Evans,31,M,11
+279,Brady Toops,33,M,11
+280,Ryan McDill,28,M,11
+281,Jordan Rodgers,27,M,12
+282,"Robert ""Robby"" Hayes",27,M,12
+283,Chase McNary,27,M,12
+284,Luke Pell,31,M,12
+285,James Taylor,29,M,12
+286,"Alexander ""Alex"" Woytkiw",25,M,12
+287,Derek Peth,29,M,12
+288,Wells Adams,31,M,12
+289,Evan Bass,33,M,12
+290,Grant Kemp,27,M,12
+291,"Vincent ""Vinny"" Ventiera",28,M,12
+292,Daniel Maguire,31,M,12
+293,James Fuertes,34,M,12
+294,"Brian ""Chad"" Johnson",28,M,12
+295,Ali Zahiri,27,M,12
+296,Christian Bishop,26,M,12
+297,"Nicholas ""Nick"" Benvenutti",33,M,12
+298,Brandon Howell,28,M,12
+299,James Spadafore,27,M,12
+300,"William ""Will"" Haduch",26,M,12
+301,"Colin ""Coley"" Knust",27,M,12
+302,Jake Patton,26,M,12
+303,Jonathan Hamilton,29,M,12
+304,"Nicholas ""Nick"" Sharp",26,M,12
+305,Peter Medina,26,M,12
+306,"Salvatore ""Sal"" DeJulio",28,M,12
+307,Bryan Abasolo,37,M,13
+308,Peter Kraus ,31,M,13
+309,Eric Bigger,29,M,13
+310,Dean Unglert,26,M,13
+311,Adam Gottschalk,27,M,13
+312,"Matthew ""Matt"" Munson",32,M,13
+313,"Aleksandr ""Alex"" Bordyukov",28,M,13
+314,"William ""Will"" Gaskins",28,M,13
+315,Kenny Layne,35,M,13
+316,Anthony Battle,26,M,13
+317,Josiah Graham,28,M,13
+318,Lee Garrett,30,M,13
+319,"Ignacio ""Iggy"" Rodriguez",30,M,13
+320,Jonathan Treece,31,M,13
+321,Jack Stone,32,M,13
+322,Brady Ervin,29,M,13
+323,"Kenneth ""Diggy"" Moreland",31,M,13
+324,Bryce Powers,30,M,13
+325,"Frederick ""Fred"" Johnson",27,M,13
+326,Blake Elarbee,31,M,13
+327,"James ""Jamey"" Kocan",32,M,13
+328,Lucas Yancey,30,M,13
+329,DeMario Jackson,30,M,13
+330,Jedidiah Ballard,35,M,13
+331,Michael Black,26,M,13
+332,"Robert ""Rob"" Howard",30,M,13
+333,Grant Hubsher,29,M,13
+334,Blake Killpack,29,M,13
+335,Milton LaCroix,31,M,13
+336,Mohit Sehgal,26,M,13
+337,Kyle Sherwood,26,M,13
+338,Garrett Yrigoyen,29,M,14
+339,Blake Horstmann,28,M,14
+340,Jason Tartick,29,M,14
+341,Colton Underwood,26,M,14
+342,"William ""Wills"" Reid",29,M,14
+343,"Leandro ""Leo"" Dottavio",31,M,14
+344,Connor Obrochta,25,M,14
+345,Lincoln Adim,26,M,14
+346,Chris Randone,30,M,14
+347,John Graham,28,M,14
+348,Jordan Kimball,26,M,14
+349,David Ravitz,25,M,14
+350,Christon Staples,31,M,14
+351,"Nicholas ""Nick"" Spetsas",27,M,14
+352,Jean Blanc,31,M,14
+353,"Michael ""Mike"" Renner",27,M,14
+354,Ryan Peterson,26,M,14
+355,Clay Harbor,30,M,14
+356,Alex Templeman,31,M,14
+357,Rickey Jasper,27,M,14
+358,Trent Jespersen,28,M,14
+359,Chase Vergason,27,M,14
+360,Christian Estrada,28,M,14
+361,Darius Feaster,26,M,14
+362,Grant Vandevanter,27,M,14
+363,Joe Amabile,31,M,14
+364,Kamil Nicalek,30,M,14
+365,Jake Enyeart,29,M,14
+366,Jed Wyatt ,27,M,15
+367,Tyler Cameron,26,M,15
+368,Peter Weber,27,M,15
+369,Luke Parker,24,M,15
+370,Garrett Powell,27,M,15
+371,Mike Johnson,31,M,15
+372,Connor Saeli,24,M,15
+373,Dustin Kendrick,30,M,15
+374,Dylan Barbour,24,M,15
+375,Devin Harris,27,M,15
+376,Grant Eckel,30,M,15
+377,Kevin Fortenberry,27,M,15
+378,John Paul Jones,24,M,15
+379,Matteo Valles,25,M,15
+380,Luke Stone,29,M,15
+381,"Cameron ""Cam"" Ayala",30,M,15
+382,Joey Jones,33,M,15
+383,Jonathan Saunders,27,M,15
+384,Tyler Gwozdz†,28,M,15
+385,Connor Jenkins,28,M,15
+386,Daron Blaylock,25,M,15
+387,Matthew Spraggins,23,M,15
+388,Brian Bowles,30,M,15
+389,Chasen Coscia,27,M,15
+390,Hunter Jones,24,M,15
+391,Joe Barsano,30,M,15
+392,Matt Donald,26,M,15
+393,Ryan Spirko,25,M,15
+394,Thomas Staton,27,M,15
+395,Scott Andersen,28,M,15

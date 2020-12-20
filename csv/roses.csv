@@ -1,0 +1,35 @@
+,sex,season,lead,winner,runner-up,engagement,still_together,winner_first,winner_lasti,second_first,second_lasti,winner_fi,second_fi
+0,M,1,Alex Michel,Amanda Marsh,Trista Rehn,False,False,Amanda,M.,Trista,R.,True,False
+1,M,2,Aaron Buerge,Helene Eksterowicz,Brooke Smith,True,False,Helene,E.,Brooke,S.,False,False
+2,M,5,Jesse Palmer,Jessica Bowlin,Tara Huckeby,False,False,Jessica,B.,Tara,H.,False,False
+3,M,9,Lorenzo Borghese,Jennifer Wilson,Sadie Murray,False,False,Jennifer,W.,Sadie,M.,False,True
+4,M,10,Andrew Baldwin,Tessa Horst,Bevin Nicole Powers,True,False,Tessa,H.,Bevin,N.,False,False
+5,M,11,Brad Womack,,"Jenni Croft,DeAnna Pappas",False,False,,,"Jenni,DeAnna","C.,P.",False,True
+6,M,12,Matt Grant,Shayne Lamas,Chelsea Wanstrath,True,False,Shayne,L.,Chelsea,W.,False,False
+7,M,13,Jason Mesnick,Melissa Rycroft,Molly Malaney,True,False,Melissa,R.,Molly,M.,False,False
+8,M,14,Jake Pavelka,Vienna Girardi,Tenley Molzahn,True,False,Vienna,G.,Tenley,M.,False,True
+9,M,15,Brad Womack,Emily Maynard,Chantal O'Brien,True,False,Emily,M.,Chantal,O.,False,False
+10,M,16,Ben Flajnik,Courtney Robertson,Lindzi Cox,True,False,Courtney,R.,Lindzi,C.,False,True
+11,M,17,Sean Lowe,Catherine Giudici,Lindsay Yenter,True,True,Catherine,G.,Lindsay,Y.,True,False
+12,M,18,Juan Pablo Galavis,Nikki Ferrell,Clare Crawley,False,False,Nikki,F.,Clare,C.,False,False
+13,M,19,Chris Soules,Whitney Bischoff,Becca Tilley,True,False,Whitney,B.,Becca,T.,False,False
+14,M,20,Ben Higgins,Lauren Bushnell,"Joelle ""JoJo"" Fletcher",True,False,Lauren,B.,Jojo,F.,False,False
+15,M,21,Nick Viall,Vanessa Grimaldi,Raven Gates,True,False,Vanessa,G.,Raven,G.,False,False
+16,M,22,Arie Luyendyk Jr.,Becca Kufrin,Lauren Burnham,True,False,Becca,K.,Lauren,B.,False,False
+17,M,23,Colton Underwood,Cassie Randolph,"Hannah Godwin,Tayshia Adams",False,False,Cassie,R.,"Hannah,Tayshia","G.,A.",False,True
+18,M,24,Peter Weber,Hannah Ann Sluss,Madison Prewett,True,False,Hannah,Ann,Madison,P.,True,False
+19,F,1,Trista Rehn,Ryan Sutter,Charlie Maher,True,True,Ryan,S.,Charlie,M.,False,False
+20,F,2,Meredith Phillips,Ian Mckee,Matthew Hickl,True,False,Ian,M.,Matthew,H.,False,False
+21,F,3,Jen Schefft,Jerry Ferris,John Paul Merritt,False,False,Jerry,F.,John,P.,False,False
+22,F,4,DeAnna Pappas,Jesse Csincsak,Jason Mesnick,True,False,Jesse,C.,Jason,M.,True,False
+23,F,5,Jillian Harris,Ed Swiderski,Kiptyn Locke,True,False,Ed,S.,Kiptyn,L.,False,False
+24,F,6,Ali Fedotowsky,Roberto Martinez,Chris Lambton,True,False,Roberto,M.,Chris,L.,True,False
+25,F,7,Ashley Hebert,J.P. Rosenbaum,Ben Flajnik,True,False,J.P.,R.,Ben,F.,False,False
+26,F,8,Emily Maynard,Jef Holm,Arie Luyendyk Jr.,True,False,Jef,H.,Arie,L.,False,False
+27,F,9,Desiree Hartsock,Chris Siegfried,Drew Kenney,True,True,Chris,S.,Drew,K.,False,True
+28,F,10,Andi Dorfman,Josh Murray,Nick Viall,True,False,Josh,M.,Nick,V.,False,True
+29,F,11,Kaitlyn Bristowe,Shawn Booth,Nick Viall,False,False,Shawn,B.,Nick,V.,True,False
+30,F,12,JoJo Fletcher,Jordan Rodgers,Robby Hayes,True,True,Jordan,R.,Robby,H.,True,False
+31,F,13,Rachel Lindsay,Bryan Abasolo,Peter Kraus,True,True,Bryan,A.,Peter,K.,True,False
+32,F,14,Becca Kufrin,Garrett Yrigoyen,Blake Horstmann,True,False,Garrett,Y.,Blake,H.,True,False
+33,F,15,Hannah Brown,Jed Wyatt,Tyler Cameron,True,False,Jed,W.,Tyler,C.,False,False
